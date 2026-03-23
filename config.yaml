@@ -1,0 +1,68 @@
+# Newsreel Configuration
+# Edit topics conversationally: "add longevity research" / "drop performance psychology"
+
+# How many hours back to search (prevents stale results)
+recency_hours: 48
+
+# Maximum articles per topic (keeps digest scannable)
+max_per_topic: 5
+
+# Total digest target: ~15 items across all topics
+max_total: 15
+
+topics:
+  - name: AI Research
+    description: Breakthroughs in AI/ML — new architectures, scientific applications, foundational research. Skip product launches unless technically significant.
+    queries:
+      - "AI research breakthrough"
+      - "machine learning new paper"
+      - "large language model research"
+    site_searches:
+      - site:substack.com
+      - site:news.ycombinator.com
+      - site:arxiv.org
+    priority: high
+
+  - name: Habit Formation
+    description: Science of behavior change, habit loops, neuroplasticity of routines. Prefer peer-reviewed or science journalism over self-help.
+    queries:
+      - "habit formation research"
+      - "behavior change science"
+      - "habit neuroscience"
+    site_searches:
+      - site:substack.com
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:news.ycombinator.com
+    priority: medium
+
+  - name: Performance Psychology
+    description: Cognitive performance, deep work, flow states, mental models, decision-making under uncertainty. Applied science over pop psychology.
+    queries:
+      - "cognitive performance research"
+      - "performance psychology"
+      - "flow state research"
+      - "decision making psychology"
+    site_searches:
+      - site:substack.com
+      - site:pubmed.ncbi.nlm.nih.gov
+    priority: medium
+
+# Personal context for relevance filtering
+personal_context: |
+  APOE4 homozygous — flag anything relevant to neurodegeneration, inflammation, cardiovascular risk.
+  Systems thinker — prefer frameworks and models over isolated tips.
+  Quantified self practitioner — wearables, data-driven health optimization.
+  Builder — interested in how research translates to tools and protocols.
+
+# Output preferences
+output:
+  format: markdown
+  location: digests/
+  naming: "YYYY-MM-DD.md"
+  style: |
+    - Lead with why it matters, not what happened
+    - Include source links
+    - Add a "Personal relevance" callout when something connects to APOE4, habits, or cognitive optimization
+    - Keep each item to 3-5 sentences max
+    - Group by topic with clear headers
+    - End with an optional "Deep Dive Candidates" section for papers worth reading in full
