@@ -5,54 +5,295 @@
 recency_hours: 48
 
 # Maximum articles per topic (keeps digest scannable)
-max_per_topic: 5
+max_per_topic: 4
 
-# Total digest target: ~15 items across all topics
-max_total: 15
+# Total digest target: ~20 items across all topics
+max_total: 20
 
 topics:
-  - name: AI Research
-    description: Breakthroughs in AI/ML — new architectures, scientific applications, foundational research. Skip product launches unless technically significant.
+  # ── HIGH PRIORITY ─────────────────────────────────────────
+
+  - name: APOE4 & Neurodegeneration
+    description: >
+      Research on APOE ε4/ε4 neuroprotection, Alzheimer's prevention, amyloid/tau pathology,
+      BBB integrity, neuroinflammation, and dementia risk reduction. Mechanistic research preferred.
+      Flag anything about APOE4-specific interventions, gene therapy, or biomarker advances.
     queries:
-      - "AI research breakthrough"
-      - "machine learning new paper"
-      - "large language model research"
+      - "APOE4 Alzheimer prevention research 2026"
+      - "APOE4 blood-brain barrier neuroprotection"
+      - "amyloid tau clearance APOE4 new study"
+      - "dementia risk reduction intervention trial"
     site_searches:
-      - site:substack.com
-      - site:news.ycombinator.com
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:nature.com
+      - site:cell.com
       - site:arxiv.org
     priority: high
 
-  - name: Habit Formation
-    description: Science of behavior change, habit loops, neuroplasticity of routines. Prefer peer-reviewed or science journalism over self-help.
+  - name: Supplement & Pharma Stack Research
+    description: >
+      New research on any substance in German's stack. Flag safety signals, interaction studies,
+      new efficacy data, optimal dosing, or form comparisons. This is a watchlist — match against
+      the specific compounds listed below.
+    watchlist:
+      medications:
+        - telmisartan
+        - nitrendipine
+        - rosuvastatin
+        - ezetimibe
+        - dutasteride
+        - lithium orotate
+      supplements:
+        - magnesium L-threonate (Magtein)
+        - longvida curcumin
+        - citicoline (CDP-choline)
+        - NAC (N-acetyl cysteine)
+        - creatine (cognitive/neuroprotection)
+        - krill oil (phospholipid DHA)
+        - selenium (selenomethionine)
+        - CoQ10 (ubiquinone/ubiquinol)
+        - HMB (beta-hydroxy beta-methylbutyrate)
+        - ashwagandha KSM-66
+        - vitamin D3
+        - vitamin K2 MK-7
+        - methylated B-complex
     queries:
-      - "habit formation research"
-      - "behavior change science"
-      - "habit neuroscience"
+      - "lithium orotate GSK-3β tau Alzheimer new study"
+      - "magnesium threonate cognitive sleep research 2026"
+      - "longvida curcumin neuroinflammation amyloid study"
+      - "telmisartan neuroprotection PPARγ research"
+      - "creatine neuroprotection brain ATP study"
+      - "nitrendipine dementia calcium channel blocker"
+      - "HMB PPARα hippocampal neuroprotection"
+      - "ashwagandha KSM-66 BDNF cortisol research"
+      - "citicoline acetylcholine SIRT1 cognitive study"
+      - "NAC glutathione oxidative stress brain"
+      - "rosuvastatin dementia risk statin neuroprotection"
+      - "krill oil phospholipid DHA Mfsd2a BBB transport"
     site_searches:
-      - site:substack.com
       - site:pubmed.ncbi.nlm.nih.gov
+      - site:nature.com
+      - site:cell.com
+      - site:examine.com
+    priority: high
+
+  - name: LLM Architecture & Training
+    description: >
+      Mechanistic deep dives into transformer design (MoE, MLA, NSA, value residuals),
+      training dynamics (grokking, double descent, scaling laws, curriculum learning),
+      and optimizers (AdamW, Muon, SOAP, Sophia). Why choices work, not just what they are.
+    queries:
+      - "transformer architecture new design 2026"
+      - "LLM training dynamics grokking scaling laws"
+      - "sparse attention mechanism efficient transformer"
+      - "optimizer LLM training Muon SOAP beyond AdamW"
+      - "mixture of experts routing mechanism research"
+    site_searches:
+      - site:arxiv.org
+      - site:substack.com
+      - site:news.ycombinator.com
+    priority: high
+
+  - name: AI Agents & RL
+    description: >
+      Agentic AI systems, tool-use, multi-agent patterns, and RL applied to real-world agents.
+      Interested in training dynamics (information density, pass-rate-dependent learning)
+      and the bitter lesson applied to agents. Skip product launches.
+    queries:
+      - "AI agent framework tool use research 2026"
+      - "reinforcement learning real world agent training"
+      - "multi-agent LLM coordination patterns"
+      - "Claude agent SDK agentic coding patterns"
+    site_searches:
+      - site:arxiv.org
+      - site:substack.com
+      - site:news.ycombinator.com
+    priority: high
+
+  - name: APOE4 Precision Nutrition
+    description: >
+      Foods and dietary patterns specifically relevant to APOE4/4 carriers — BBB-protective foods,
+      anti-inflammatory nutrition, MIND/Mediterranean diet research, and genotype-specific metabolic responses.
+      Interested in mechanisms (oleocanthal, sulforaphane, polyphenols) not generic diet tips.
+    queries:
+      - "APOE4 diet Mediterranean MIND neuroprotection study"
+      - "EVOO oleocanthal blood-brain barrier research"
+      - "sulforaphane broccoli neuroprotection NRF2 study"
+      - "polyphenols flavonoids neurodegeneration APOE4"
+    site_searches:
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:nature.com
+      - site:examine.com
+    priority: high
+
+  - name: Sleep & Circadian Biology
+    description: >
+      Sleep architecture optimization, circadian rhythm research, sleep fragmentation mechanisms,
+      and interventions. Interested in mechanistic explanations (cortisol, GABA, adenosine)
+      and wearable-tracked metrics. Skip generic sleep hygiene.
+    queries:
+      - "sleep architecture deep sleep optimization research"
+      - "circadian rhythm disruption health consequences study"
+      - "sleep fragmentation cortisol HRV research"
+      - "GABA sleep supplements magnesium mechanism"
+    site_searches:
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:nature.com
+      - site:substack.com
+    priority: high
+
+  # ── MEDIUM PRIORITY ───────────────────────────────────────
+
+  - name: Algorithmic Trading & Quant Finance
+    description: >
+      Systematic trading strategies, regime detection, market microstructure, and quantitative
+      approaches to emerging markets. Interested in MOEX, B3/Bovespa, Bitcoin regime shifts,
+      and ML applied to finance. Academic or practitioner research, not financial news.
+    queries:
+      - "algorithmic trading regime detection research"
+      - "market microstructure emerging markets systematic"
+      - "Bitcoin regime shift mean reversion momentum"
+      - "ML quantitative finance new strategy paper"
+    site_searches:
+      - site:arxiv.org
+      - site:substack.com
+      - site:ssrn.com
+    priority: medium
+
+  - name: Exercise Science & Recovery
+    description: >
+      Training science relevant to BJJ, surfing, and general fitness — periodization,
+      Zone 2 physiology, recovery protocols, injury prevention, and heat therapy (HSP induction).
+      Prefer research on athletes over general population.
+    queries:
+      - "exercise science periodization combat sports research"
+      - "Zone 2 cardio mitochondrial adaptation study"
+      - "heat therapy HSP70 protein misfolding recovery"
+      - "BJJ injury prevention strength conditioning research"
+    site_searches:
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:substack.com
+    priority: medium
+
+  - name: Behavioral Science & Systems Thinking
+    description: >
+      Habit formation, implementation intentions, behavioral economics, game theory,
+      and systems design for behavior change. Prefer peer-reviewed or applied science
+      over self-help. Includes infinite games (Carse) and decision-making under uncertainty.
+    queries:
+      - "implementation intentions IF-THEN behavior change study"
+      - "behavioral economics decision making research 2026"
+      - "systems thinking behavior design environment"
+      - "habit formation neuroscience research"
+    site_searches:
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:substack.com
       - site:news.ycombinator.com
     priority: medium
 
-  - name: Performance Psychology
-    description: Cognitive performance, deep work, flow states, mental models, decision-making under uncertainty. Applied science over pop psychology.
+  - name: Ukraine-Russia Geopolitics
+    description: >
+      Game-theoretic analysis of the Russia-Ukraine conflict — negotiation dynamics,
+      sanctions effectiveness, Putin's decision calculus, and settlement scenarios.
+      Analytical/academic sources, not breaking news.
     queries:
-      - "cognitive performance research"
-      - "performance psychology"
-      - "flow state research"
-      - "decision making psychology"
+      - "Ukraine Russia negotiation analysis 2026"
+      - "Putin strategy rational actor game theory"
+      - "Russia sanctions effectiveness economic analysis"
+      - "Ukraine settlement scenarios geopolitical analysis"
+    site_searches:
+      - site:foreignpolicy.com
+      - site:brookings.edu
+      - site:carnegieendowment.org
+      - site:substack.com
+    priority: medium
+
+  - name: AI Consciousness & Alignment
+    description: >
+      Whether frontier LLMs might have experience (Butlin et al. indicators),
+      Anthropic's precautionary approach to AI welfare, and alignment research.
+      Philosophical depth preferred over hot takes.
+    queries:
+      - "AI consciousness indicators neuroscience theory 2026"
+      - "AI welfare precautionary approach Anthropic"
+      - "LLM alignment research safety new paper"
+    site_searches:
+      - site:arxiv.org
+      - site:substack.com
+    priority: medium
+
+  # ── LOW PRIORITY (include if space allows) ────────────────
+
+  - name: X/Twitter Growth & Content Strategy
+    description: >
+      Growing a technical/ML account from zero — algorithm mechanics, Premium visibility,
+      engagement tactics for niche content. Data-driven approaches preferred.
+    queries:
+      - "X Twitter growth strategy technical account 2026"
+      - "Twitter algorithm visibility engagement analysis"
     site_searches:
       - site:substack.com
+    priority: low
+
+  - name: Spaced Repetition & Learning Science
+    description: >
+      Anki card design, desirable difficulties, optimal study session structure,
+      and cognitive fatigue research. Applied to technical/mathematical content.
+    queries:
+      - "spaced repetition research optimal scheduling 2026"
+      - "desirable difficulties active recall learning study"
+    site_searches:
       - site:pubmed.ncbi.nlm.nih.gov
+      - site:substack.com
     priority: medium
 
 # Personal context for relevance filtering
 personal_context: |
-  APOE4 homozygous — flag anything relevant to neurodegeneration, inflammation, cardiovascular risk.
-  Systems thinker — prefer frameworks and models over isolated tips.
-  Quantified self practitioner — wearables, data-driven health optimization.
-  Builder — interested in how research translates to tools and protocols.
+  APOE4 ε4/ε4 homozygous — highest-risk genotype for Alzheimer's and cardiovascular disease.
+  Also carries 9p21 (cardiovascular), TCF7L2 & FTO (T2D predisposition), IL-6 G/G (inflammation).
+  On: telmisartan, nitrendipine, rosuvastatin, ezetimibe, dutasteride, lithium orotate.
+  Extensive supplement stack — see watchlist in "Supplement & Pharma Stack Research" topic.
+  Zero alcohol (permanent), zero nicotine (quit Mar 2025), zero iron supplementation.
+  Systems thinker — prefer frameworks, mechanisms, and IF-THEN protocols over tips.
+  Quantified self: Garmin (sleep, HRV, steps), health dashboard, daily logs.
+  Active: BJJ, surfing, kickboxing, Zone 2 cardio, lifting.
+  Learning: ML/deep learning fundamentals, Anki-based spaced repetition.
+  Trades: IMOEX2 futures (algorithmic), exploring B3/Bovespa and Bitcoin systematic strategies.
+  Wants mechanistic explanations — pathways, not just "it works."
+  Programming/systems analogies are the preferred explanatory framework.
+
+# Trusted sources (prefer these when available)
+trusted_sources:
+  academic:
+    - pubmed.ncbi.nlm.nih.gov
+    - nature.com
+    - cell.com
+    - arxiv.org
+    - ssrn.com
+  journalism:
+    - substack.com
+    - news.ycombinator.com
+    - examine.com
+  geopolitics:
+    - foreignpolicy.com
+    - brookings.edu
+    - carnegieendowment.org
+    - atlanticcouncil.org
+
+# Researchers to watch (flag articles by these authors)
+researchers_to_watch:
+  - name: Rhonda Patrick
+    domain: APOE4 nutrition, DHA transport
+  - name: Sally Frautschy
+    domain: Longvida curcumin, neuroinflammation
+  - name: Andrej Karpathy
+    domain: LLM training, nanoGPT
+  - name: Kyle Fish
+    domain: AI welfare, Anthropic
+  - name: Richard Sutton
+    domain: RL, bitter lesson
+  - name: Fiona Hill
+    domain: Russia/Putin analysis
 
 # Output preferences
 output:
@@ -62,7 +303,10 @@ output:
   style: |
     - Lead with why it matters, not what happened
     - Include source links
-    - Add a "Personal relevance" callout when something connects to APOE4, habits, or cognitive optimization
+    - Add "Personal relevance" callout when connecting to APOE4, stack compounds, or cognitive optimization
+    - Add "Stack alert" callout for any research on watched supplements/medications
     - Keep each item to 3-5 sentences max
     - Group by topic with clear headers
-    - End with an optional "Deep Dive Candidates" section for papers worth reading in full
+    - Use programming/systems analogies in summaries where natural
+    - End with "Deep Dive Candidates" section for papers worth reading in full
+    - End with "Stack Watch" section if any supplement/pharma research was found
