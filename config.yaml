@@ -175,38 +175,46 @@ topics:
       - site:substack.com
     priority: medium
 
+  - name: Adherence & Behavior Maintenance
+    description: >
+      The meta-skill: how to stick with diets, study plans, supplement stacks, training programs.
+      Covers implementation intentions (IF-THEN), identity-based adherence, self-monitoring science,
+      temptation bundling, commitment devices, decision fatigue/ego depletion (contested),
+      flexible vs rigid scheduling, emotion-during-behavior, and environment design.
+      Peer-reviewed or applied behavioral science — skip self-help fluff.
+      Interested in: maintenance (not just initiation), failure modes, and systems-level models.
+    queries:
+      - "behavior maintenance adherence long-term study 2026"
+      - "implementation intentions flexible IF-THEN meta-analysis"
+      - "identity-based habit formation self-concept adherence"
+      - "self-monitoring tracking goal attainment research"
+      - "decision fatigue ego depletion self-regulation replication"
+      - "temptation bundling commitment device intervention"
+      - "diet adherence compliance behavioral intervention"
+    site_searches:
+      - site:pubmed.ncbi.nlm.nih.gov
+      - site:substack.com
+      - site:news.ycombinator.com
+      - site:psychologytoday.com
+    priority: medium
+
   - name: Behavioral Science & Systems Thinking
     description: >
-      Habit formation, implementation intentions, behavioral economics, game theory,
-      and systems design for behavior change. Prefer peer-reviewed or applied science
-      over self-help. Includes infinite games (Carse) and decision-making under uncertainty.
+      Behavioral economics, game theory, systems design for behavior change,
+      decision-making under uncertainty. Prefer peer-reviewed or applied science
+      over self-help. Includes infinite games (Carse).
     queries:
-      - "implementation intentions IF-THEN behavior change study"
       - "behavioral economics decision making research 2026"
       - "systems thinking behavior design environment"
-      - "habit formation neuroscience research"
+      - "habit formation neuroscience dopamine reward research"
     site_searches:
       - site:pubmed.ncbi.nlm.nih.gov
       - site:substack.com
       - site:news.ycombinator.com
     priority: medium
 
-  - name: Ukraine-Russia Geopolitics
-    description: >
-      Game-theoretic analysis of the Russia-Ukraine conflict — negotiation dynamics,
-      sanctions effectiveness, Putin's decision calculus, and settlement scenarios.
-      Analytical/academic sources, not breaking news.
-    queries:
-      - "Ukraine Russia negotiation analysis 2026"
-      - "Putin strategy rational actor game theory"
-      - "Russia sanctions effectiveness economic analysis"
-      - "Ukraine settlement scenarios geopolitical analysis"
-    site_searches:
-      - site:foreignpolicy.com
-      - site:brookings.edu
-      - site:carnegieendowment.org
-      - site:substack.com
-    priority: medium
+  # Ukraine-Russia Geopolitics — REMOVED 2026-03-24
+  # User feedback: English-language analysis quality is too low to be useful.
 
   - name: AI Consciousness & Alignment
     description: >
@@ -221,6 +229,46 @@ topics:
       - site:arxiv.org
       - site:substack.com
     priority: medium
+
+  - name: Markets Overview
+    description: >
+      Daily market snapshot: price movements and key drivers for US (S&P 500, Nasdaq, Dow),
+      Europe (STOXX 600, DAX), Brazil (Ibovespa, BRL), and Russia (MOEX/IMOEX, RUB).
+      Include commodities (oil, iron ore) when they drive EM moves.
+      Focus on what moved and why, not predictions. Always included in digest.
+    queries:
+      - "stock market today S&P 500 Nasdaq"
+      - "European stock market STOXX DAX today"
+      - "Ibovespa Brazil stock market today"
+      - "MOEX IMOEX Russian stock market today"
+    priority: always
+
+  - name: News Radar
+    description: >
+      Two layers:
+      1. INTERESTING STORIES — Tech drama, wild schemes, audacious moves, surprising developments.
+         Things like "$2.5B GPU smuggling with a hair dryer" or "OpenAI acquires the Python toolchain."
+         Prioritize stories with narrative weight — conflict, irony, scale, cleverness, or consequences.
+         Include gaming industry (Nintendo, Steam, console wars), space, hardware, developer tools.
+      2. BIG EVENTS — Anything so significant it would be irresponsible to skip, even if it's outside
+         core interests. Wars starting/ending, major natural disasters, landmark legislation,
+         historic firsts, market crashes. The "everyone is talking about this" filter.
+      Include 4-6 items per digest. Skip: celebrity gossip, sports scores, generic earnings,
+      routine product updates, and PR fluff. If unsure, ask: "would German bring this up at dinner?"
+    queries:
+      - "tech news today biggest stories"
+      - "science breakthrough news today"
+      - "gaming news today Nintendo Steam"
+      - "world news today major developments"
+      - "developer tools open source news today"
+      - "space launch satellite news today"
+    site_searches:
+      - site:arstechnica.com
+      - site:theverge.com
+      - site:news.ycombinator.com
+      - site:reuters.com
+      - site:tomshardware.com
+    priority: always
 
   # ── LOW PRIORITY (include if space allows) ────────────────
 
