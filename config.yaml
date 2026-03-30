@@ -81,13 +81,17 @@ topics:
     description: >
       Mechanistic deep dives into transformer design (MoE, MLA, NSA, value residuals),
       training dynamics (grokking, double descent, scaling laws, curriculum learning),
-      and optimizers (AdamW, Muon, SOAP, Sophia). Why choices work, not just what they are.
+      optimizers (AdamW, Muon, SOAP, Sophia), and inference optimization (quantization,
+      speculative decoding, KV-cache compression, distillation). Why choices work, not just what they are.
+      Include major releases/announcements from Google, OpenAI, Anthropic, Meta, DeepSeek, Mistral etc.
     queries:
       - "transformer architecture new design 2026"
       - "LLM training dynamics grokking scaling laws"
       - "sparse attention mechanism efficient transformer"
       - "optimizer LLM training Muon SOAP beyond AdamW"
       - "mixture of experts routing mechanism research"
+      - "LLM quantization inference optimization memory reduction"
+      - "speculative decoding KV cache compression research"
     site_searches:
       - site:arxiv.org
       - site:substack.com
@@ -262,12 +266,15 @@ topics:
       - "world news today major developments"
       - "developer tools open source news today"
       - "space launch satellite news today"
+      - "streaming film Netflix box office entertainment news today"
     site_searches:
       - site:arstechnica.com
       - site:theverge.com
       - site:news.ycombinator.com
       - site:reuters.com
       - site:tomshardware.com
+      - site:variety.com
+      - site:deadline.com
     priority: always
 
   # ── LOW PRIORITY (include if space allows) ────────────────

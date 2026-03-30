@@ -26,10 +26,9 @@ For each topic in `config.yaml`:
 2. Run site-specific searches (substack, hackernews, pubmed, arxiv)
 3. Collect all candidate URLs and titles
 
-### Step 3: Dedup
-- Check every candidate URL against `seen_urls.txt`
-- Skip any URL already seen
-- Also skip if the title is substantially similar to a seen article (same story, different outlet)
+### Step 3: Dedup (two-layer)
+- **URL dedup:** Check every candidate URL against `seen_urls.txt` — skip exact matches
+- **Story dedup:** Check every candidate against `covered_stories.txt` — skip if the same story/finding was already covered from a different source, unless the new article adds genuinely new information (replication with different results, significant follow-up data, or a contradicting finding)
 
 ### Step 4: Filter and Rank
 - Apply `personal_context` from config to assess relevance
@@ -45,18 +44,22 @@ For each topic in `config.yaml`:
 - End with "Deep Dive Candidates" section for papers worth reading fully
 - Include frontmatter with date, topics covered, and article count
 
-### Step 6: Update Seen URLs
+### Step 6: Update Tracking Files
 - Append all URLs included in today's digest to `seen_urls.txt`
 - Format: one URL per line, prefixed with the date: `2026-03-23 https://...`
+- Append one-line story summaries to `covered_stories.txt`
+- Format: `DATE [TOPIC] Brief description of the story/finding`
+- Topic tags: `[APOE4]`, `[Supplement]`, `[Nutrition]`, `[LLM]`, `[Agents]`, `[AI]`, `[Sleep]`, `[Exercise]`, `[News]`, `[Markets]`, `[Quant]`, `[Behavior]`, `[Geopolitics]`
 
 ## Key Files
 
 ```
 Newsreel/
-├── CLAUDE.md          ← you are here
-├── config.yaml        ← topics, queries, preferences (edit conversationally)
-├── seen_urls.txt      ← dedup tracking (auto-managed)
-├── digests/           ← daily digest markdown files
+├── CLAUDE.md            ← you are here
+├── config.yaml          ← topics, queries, preferences (edit conversationally)
+├── seen_urls.txt        ← URL-level dedup tracking (auto-managed)
+├── covered_stories.txt  ← story-level semantic dedup ledger (auto-managed)
+├── digests/             ← daily digest markdown files
 │   ├── 2026-03-23.md
 │   └── ...
 └── .gitignore

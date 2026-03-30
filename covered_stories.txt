@@ -1,0 +1,115 @@
+# Covered Stories — semantic dedup ledger
+# One story per line: DATE [TOPIC] Brief description
+# Check this file during digest generation to avoid covering the same story from a different source.
+# Auto-managed alongside seen_urls.txt.
+
+# ── 2026-03-23 ────────────────────────────────────────────
+2026-03-23 [APOE4] Lithium deficiency directly causes AD pathology in mice; lithium orotate prevents all changes via GSK-3β (Nature)
+2026-03-23 [APOE4] APOE4→APOE2 astrocyte-specific gene therapy reverses amyloid pathology in mice (Nature Neuroscience)
+2026-03-23 [APOE4] UCL study: up to 90% of Alzheimer's cases may be APOE-linked
+2026-03-23 [Supplement] Magtein RCT (n=100): brain age -7.5yrs, HRV improvement, working memory gains
+2026-03-23 [Supplement] Creatine neuroprotection: US Military TBI information paper + muscle-brain axis review
+2026-03-23 [Supplement] HMB: no new studies since 2024 PPARα/hippocampal paper
+2026-03-23 [Nutrition] Mediterranean diet cuts dementia-linked metabolites 35% in APOE4 carriers (Nature Medicine, n=5705)
+2026-03-23 [LLM] Grokking confirmed in practical LLM pretraining via MoE expert routing patterns
+2026-03-23 [LLM] Li² framework: provable scaling laws for feature emergence via grokking stages
+2026-03-23 [LLM] ICLR 2026: standard transformers rarely a local optimum (spline replacement study)
+2026-03-23 [Sleep] Circadian regularity beats sleep duration as health predictor (PNAS)
+2026-03-23 [Exercise] Zone 2 hype challenged: higher intensities more efficient for <6h/week training volume
+2026-03-23 [Geopolitics] CSIS: Ukraine peace deal analysis — opportunity or strategic trap
+2026-03-23 [AI] Updated Butlin et al. consciousness indicators framework (Trends in Cognitive Sciences)
+2026-03-23 [Agents] Microsoft AgentRx: systematic debugging framework for agentic AI
+
+# ── 2026-03-24 ────────────────────────────────────────────
+2026-03-24 [Agents] Anthropic Agentic Coding Trends Report 2026
+2026-03-24 [Agents] Stratechery "Agents over Bubbles" — agents as durable paradigm vs bubble
+2026-03-24 [Agents] Anthropic Claude agent for computer use (CNBC coverage)
+2026-03-24 [News] US tech execs charged with smuggling Nvidia chips to China
+2026-03-24 [News] OpenAI acquires Astral (Python toolchain — uv, ruff)
+2026-03-24 [News] Russia launches first batch of Starlink-rival satellites
+2026-03-24 [News] Nintendo cuts Switch 2 output by 30% on weak holiday sales
+2026-03-24 [News] Apple introduces iPhone 17e
+2026-03-24 [News] Tesla/SpaceX/xAI Terafab chip factory launch in Austin
+2026-03-24 [News] Google Project Genie: AI game design tool crashes gaming stocks
+2026-03-24 [News] Epic Games cuts ~1,000 jobs
+2026-03-24 [News] Jensen Huang claims "we have achieved AGI"
+2026-03-24 [News] AWS Bahrain region disrupted by drone activity (Iran war)
+2026-03-24 [News] Roche CE mark for APOE4 diagnostic test
+2026-03-24 [News] Trump reverses offshore wind leases (TotalEnergies)
+2026-03-24 [APOE4] High meat intake linked to lower dementia risk only in APOE4 carriers
+2026-03-24 [Nutrition] Rutgers: nutrition-based approach to protect brain health in high-risk AD adults
+2026-03-24 [Behavior] NIH spotlight: advancing science of health behavior maintenance
+2026-03-24 [Geopolitics] Iran war escalation; multiple fronts (Iran, Lebanon, Houthis)
+2026-03-24 [Markets] Brazil Copom minutes relief rally; global markets mixed
+
+# ── 2026-03-25 ────────────────────────────────────────────
+2026-03-25 [APOE4] APOE4/APOE3 linked to ≥70% of Alzheimer's cases (Alzheimer's Research UK, large-scale study)
+2026-03-25 [APOE4] New mechanistic explanation for why APOE4 raises AD risk (Science.org, apoe44.org)
+2026-03-25 [APOE4] Harvard: Alzheimer's breakthrough 10 years in the making
+2026-03-25 [Supplement] Medscape + Eric Topol: lithium orotate for AD prevention — growing clinical interest
+2026-03-25 [Supplement] Creatine + magnesium L-threonate biochemical synergy paper (ResearchGate)
+2026-03-25 [Agents] NVIDIA: training scientific agents with reinforcement learning (developer blog)
+2026-03-25 [Agents] HuggingFace blog: AI trends 2026 — test-time reasoning, reflective agents
+2026-03-25 [Behavior] Academic paper: behavior maintenance & goal attainment research
+2026-03-25 [Sleep] UC Davis: daylight saving time triggers more migraines, cuts deep sleep
+2026-03-25 [AI] AI Frontiers: comprehensive evidence assessment for AI consciousness today
+2026-03-25 [Exercise] Heat therapy review: targeting health, disease, and disability (Richey et al.)
+2026-03-25 [LLM] NC State: new technique addresses LLM safety
+2026-03-25 [Quant] Springer + Tandfonline: quant finance papers — Bitcoin RL trading with DQN
+2026-03-25 [Markets] European markets under pressure; oil prices surge from Iran war
+2026-03-25 [News] Meta child safety trial: jury reaches landmark verdict in New Mexico
+2026-03-25 [News] Democrat flips Republican Florida House seat (Mar-a-Lago district)
+2026-03-25 [News] Netanyahu vows further strikes on Iran/Lebanon after Tel Aviv missile hit
+
+# ── 2026-03-26 ────────────────────────────────────────────
+2026-03-26 [APOE4] Meat intake / APOE4 / dementia story — covered by third outlet (Neuroscience News)
+2026-03-26 [Supplement] AJMC: magnesium L-threonate improves objective + subjective sleep quality
+2026-03-26 [Supplement] New MgT clinical trial registered (NCT07015047)
+2026-03-26 [Agents] Google: AI agents learn to cooperate when trained against each other (VentureBeat)
+2026-03-26 [Agents] Self-improving AI agents via RL + continual learning (Technology.org)
+2026-03-26 [AI] BISI report: Claude's new constitution — alignment, ethics, model governance
+2026-03-26 [Quant] Neural networks for systematic Bitcoin derivatives trading (ainvest)
+2026-03-26 [News] Nintendo 2026 emulator purge ("Eden Defiance")
+2026-03-26 [Markets] European markets + oil seeking direction amid conflicting Iran/US signals
+
+# ── 2026-03-27 ────────────────────────────────────────────
+2026-03-27 [APOE4] Alzheimer's journal paper on APOE4 interventions (trc2.70101)
+2026-03-27 [Sleep] Bio-IT World: dangers of disrupted sleep; Sleep journal new paper
+2026-03-27 [News] OpenAI shuts down Sora video platform — redirects compute to core models
+2026-03-27 [News] Iran Strait of Hormuz yuan-based toll system for select vessels (Fortune)
+2026-03-27 [Geopolitics] Iran peace conditions; war developments (NPR, CNBC)
+2026-03-27 [Markets] Dow/S&P/Nasdaq slide; semiconductor weakness; Iran truce prospects
+
+# ── 2026-03-28 ────────────────────────────────────────────
+2026-03-28 [APOE4] Lecanemab delayed-start data: best signal still excludes APOE4/4 homozygotes
+2026-03-28 [Nutrition] Ketogenic diet as gut-brain rerouting layer in APOE4 mice (microbiome + metabolites)
+2026-03-28 [Sleep] Chronic sleep restriction upregulates complement/coagulation signaling (Nature)
+2026-03-28 [Sleep] Slow-wave sleep as anxiolytic layer — degradation with age causes anxiety (Nature Aging)
+2026-03-28 [Exercise] Heat therapy: HSP70 + BDNF increase across brain regions in mice (45°C, 30min)
+2026-03-28 [LLM] PathMoE: expert routing as multi-step search process (+12.8% avg, +42.9% reasoning)
+2026-03-28 [LLM] Hybrid Associative Memories: cache-hierarchy for long context (40x faster, 10x less VRAM)
+2026-03-28 [LLM] Google TurboQuant: 6x KV cache memory reduction, 8x speedup, zero accuracy loss
+2026-03-28 [Agents] ACT: difficulty-aware continuous training signals replace binary pass/fail RL
+2026-03-28 [Agents] SGE: strategy-guided exploration for reusable semantic policies (+18.3pp)
+2026-03-28 [Agents] Anthropic: building agents with Claude Agent SDK (engineering blog)
+2026-03-28 [Supplement] Citicoline: much larger proteomic shift in APOE4 females than males (676 vs 41 proteins)
+2026-03-28 [AI] Eleos AI: introspection papers on AI self-knowledge
+2026-03-28 [AI] Berkeley: emergent misalignment in LLMs — the peril of unexpected behavior
+2026-03-28 [News] ARC-AGI-3 benchmark: frontier models <1%, humans 100%
+2026-03-28 [News] Google PHIA: personal health insight agent for wearable data (Nature Comms)
+2026-03-28 [News] Houthis claim missile attack on Israel; Iran war multi-front escalation
+2026-03-28 [Markets] S&P 500 posts 5th straight losing week; oil-and-war tax on risk assets
+
+# ── 2026-03-30 ────────────────────────────────────────────
+2026-03-30 [News] "No Kings" protests: 8M+ across all 50 states — largest single-day US protest ever
+2026-03-30 [News] Pakistan hosts quadrilateral meeting (Saudi, Turkey, Egypt) for US-Iran peace talks
+2026-03-30 [News] Iran warns US against ground invasion; Trump claims Iran agreed to "most of" 15 demands
+2026-03-30 [News] Artemis II: final preparations for April 1 launch — first crewed lunar mission since Apollo 17
+2026-03-30 [News] Mistral raises $830M debt financing for Paris data center (13,800 GB300 chips)
+2026-03-30 [News] Google Gemini 3.1 Flash-Lite: 2.5x faster, $0.25/M input tokens
+2026-03-30 [Agents] NVIDIA ProRL Agent: rollout-as-a-service decouples RL training from environment interaction
+2026-03-30 [LLM] ARKV: adaptive tri-state KV cache management — 4x memory reduction, ~97% accuracy
+2026-03-30 [AI] Anthropic abstractive red-teaming: semantic-level fuzzing for character specification violations
+2026-03-30 [Exercise] Combined heat + exercise synergistically upregulates TFAM mitochondrial biogenesis (Frontiers)
+2026-03-30 [Supplement] Rosuvastatin meta-analysis: strongest dementia protection among statins (Westphal Filho 2025)
+2026-03-30 [Markets] Monday bounce (Dow +0.49%); Brent $112-115, 51% monthly gain; Strait of Hormuz crisis deepens
