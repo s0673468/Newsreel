@@ -83,7 +83,10 @@ topics:
       training dynamics (grokking, double descent, scaling laws, curriculum learning),
       optimizers (AdamW, Muon, SOAP, Sophia), and inference optimization (quantization,
       speculative decoding, KV-cache compression, distillation). Why choices work, not just what they are.
-      Include major releases/announcements from Google, OpenAI, Anthropic, Meta, DeepSeek, Mistral etc.
+      Include major releases/announcements from ALL labs: Google, OpenAI, Anthropic, Meta,
+      DeepSeek, Mistral, Alibaba/Qwen, xAI/Grok, Cohere, etc. Track model releases from
+      non-Western labs (Qwen, DeepSeek, Yi) — licensing changes and benchmark claims matter.
+      Include AI funding rounds, valuations, and IPO signals.
     queries:
       - "transformer architecture new design 2026"
       - "LLM training dynamics grokking scaling laws"
@@ -92,6 +95,8 @@ topics:
       - "mixture of experts routing mechanism research"
       - "LLM quantization inference optimization memory reduction"
       - "speculative decoding KV cache compression research"
+      - "Qwen DeepSeek new model release 2026"
+      - "OpenAI Anthropic funding round valuation 2026"
     site_searches:
       - site:arxiv.org
       - site:substack.com
@@ -110,6 +115,49 @@ topics:
       - "Claude agent SDK agentic coding patterns"
     site_searches:
       - site:arxiv.org
+      - site:substack.com
+      - site:news.ycombinator.com
+    priority: high
+
+  - name: AI Tools & Developer Community
+    description: >
+      The tools German uses daily: Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, etc.
+      Track: leaks/reverse-engineering of how they work under the hood, system prompts leaked,
+      quota/billing changes and bugs, limits resets, new features, community drama, and
+      practitioner discussions about workflows and patterns. Also covers AI coding benchmarks,
+      developer experience debates, and "how X actually works" deep dives.
+      This is the watercooler — what developers are talking about TODAY.
+    queries:
+      - "Claude Code leaked system prompt how it works"
+      - "Claude Code quota drain bug discussion"
+      - "Codex limits reset OpenAI update"
+      - "AI coding assistant news Cursor Copilot Windsurf"
+      - "Claude Code Anthropic developer update"
+    site_searches:
+      - site:news.ycombinator.com
+      - site:reddit.com
+      - site:substack.com
+      - site:x.com
+    priority: high
+
+  - name: AI Technical Discourse (X & Substack)
+    description: >
+      The pulse of what ML practitioners and researchers are actually discussing on X (Twitter)
+      and Substack. Includes: hot takes on new papers, architecture debates, training recipes,
+      prompt engineering insights, scaling law discussions, benchmark drama, and "what I learned
+      building X" posts. Prioritize content from Sebastian Raschka, Andrej Karpathy, and other
+      watched researchers. This topic is about the CONVERSATION, not just the papers — the
+      interpretations, disagreements, and implications that practitioners care about.
+    queries:
+      - "Sebastian Raschka blog newsletter 2026"
+      - "Andrej Karpathy post blog 2026"
+      - "AI ML discussion trending Twitter X March April 2026"
+      - "LLM debate discussion substack newsletter 2026"
+      - "machine learning hot take trending discussion"
+    site_searches:
+      - site:sebastianraschka.com
+      - site:magazine.sebastianraschka.com
+      - site:karpathy.ai
       - site:substack.com
       - site:news.ycombinator.com
     priority: high
@@ -179,20 +227,28 @@ topics:
       - site:substack.com
     priority: medium
 
-  - name: Adherence & Behavior Maintenance
+  - name: Performance Psychology & Habit Adherence
     description: >
-      The meta-skill: how to stick with diets, study plans, supplement stacks, training programs.
-      Covers implementation intentions (IF-THEN), identity-based adherence, self-monitoring science,
-      temptation bundling, commitment devices, decision fatigue/ego depletion (contested),
-      flexible vs rigid scheduling, emotion-during-behavior, and environment design.
-      Peer-reviewed or applied behavioral science — skip self-help fluff.
-      Interested in: maintenance (not just initiation), failure modes, and systems-level models.
+      Two sub-topics, both high-signal:
+      1. PERFORMANCE PSYCHOLOGY — Mental models for consistency, deliberate practice,
+         pre-performance routines, self-regulation under pressure, flow states,
+         psychological flexibility (ACT), and cognitive reappraisal. Applied to athletes,
+         traders, and knowledge workers. Prefer frameworks with mechanisms.
+      2. HABIT ADHERENCE — The meta-skill: how to stick with diets, study plans, supplement
+         stacks, training programs. Implementation intentions (IF-THEN), identity-based habits,
+         self-monitoring science, temptation bundling, commitment devices, flexible vs rigid
+         scheduling, and environment design. Peer-reviewed or applied behavioral science.
+      Interested in: maintenance (not just initiation), failure modes, consistency over time,
+      and systems-level models. Skip self-help fluff.
     queries:
+      - "performance psychology consistency deliberate practice 2026"
+      - "mental toughness self-regulation athletes research"
       - "behavior maintenance adherence long-term study 2026"
       - "implementation intentions flexible IF-THEN meta-analysis"
       - "identity-based habit formation self-concept adherence"
       - "self-monitoring tracking goal attainment research"
-      - "decision fatigue ego depletion self-regulation replication"
+      - "psychological flexibility ACT performance outcomes"
+      - "pre-performance routine cognitive reappraisal study"
       - "temptation bundling commitment device intervention"
       - "diet adherence compliance behavioral intervention"
     site_searches:
@@ -200,7 +256,7 @@ topics:
       - site:substack.com
       - site:news.ycombinator.com
       - site:psychologytoday.com
-    priority: medium
+    priority: high
 
   - name: Behavioral Science & Systems Thinking
     description: >
@@ -217,8 +273,21 @@ topics:
       - site:news.ycombinator.com
     priority: medium
 
-  # Ukraine-Russia Geopolitics — REMOVED 2026-03-24
-  # User feedback: English-language analysis quality is too low to be useful.
+  - name: Russia Sanctions & Policy
+    description: >
+      Track US/EU sanctions changes on Russia — additions, removals, carve-outs, enforcement shifts.
+      Not the war analysis (quality too low in English), but policy moves that affect MOEX/IMOEX
+      trading, RUB, and the broader sanctions architecture. Include secondary sanctions enforcement
+      and any easing signals.
+    queries:
+      - "Russia sanctions update easing removal 2026"
+      - "US Russia sanctions policy change 2026"
+      - "MOEX sanctions trading access update"
+    site_searches:
+      - site:reuters.com
+      - site:bloomberg.com
+      - site:foreignpolicy.com
+    priority: medium
 
   - name: AI Consciousness & Alignment
     description: >
@@ -231,6 +300,27 @@ topics:
       - "LLM alignment research safety new paper"
     site_searches:
       - site:arxiv.org
+      - site:substack.com
+    priority: medium
+
+  - name: Prediction Markets & Geopolitical Odds
+    description: >
+      Track significant shifts in prediction market odds on geopolitical events, wars,
+      elections, and policy outcomes. Sources: Polymarket, Metaculus, Kalshi, PredictIt.
+      Focus on LARGE moves (>10pp shifts) or odds crossing key thresholds (e.g., >50%).
+      Events to watch: Iran war ceasefire/escalation timelines, Strait of Hormuz reopening,
+      US ground invasion odds, Russia-Ukraine developments, US elections, AI regulation.
+      Report the odds change and what likely drove it — not just the number.
+    queries:
+      - "Polymarket Iran war odds ceasefire 2026"
+      - "prediction market geopolitical odds shift 2026"
+      - "Polymarket Kalshi Metaculus trending bet 2026"
+      - "Strait of Hormuz reopening odds prediction market"
+      - "prediction market US election 2026 midterms odds"
+    site_searches:
+      - site:polymarket.com
+      - site:metaculus.com
+      - site:kalshi.com
       - site:substack.com
     priority: medium
 
@@ -259,6 +349,12 @@ topics:
          historic firsts, market crashes. The "everyone is talking about this" filter.
       Include 4-6 items per digest. Skip: celebrity gossip, sports scores, generic earnings,
       routine product updates, and PR fluff. If unsure, ask: "would German bring this up at dinner?"
+      ALSO COVER:
+      - Quantum computing breakthroughs (especially crypto/encryption implications)
+      - Major entertainment releases (films, series premieres on Netflix/streaming — not reviews, just "it's out")
+      - AI company funding rounds, valuations, M&A
+      - Sanctions policy shifts (Russia, China, Iran)
+      - Hardware launches (chips, GPUs, consoles)
     queries:
       - "tech news today biggest stories"
       - "science breakthrough news today"
@@ -267,6 +363,9 @@ topics:
       - "developer tools open source news today"
       - "space launch satellite news today"
       - "streaming film Netflix box office entertainment news today"
+      - "quantum computing breakthrough news 2026"
+      - "Netflix new release premiere today"
+      - "AI funding round valuation news today"
     site_searches:
       - site:arstechnica.com
       - site:theverge.com
@@ -275,6 +374,7 @@ topics:
       - site:tomshardware.com
       - site:variety.com
       - site:deadline.com
+      - site:reddit.com
     priority: always
 
   # ── LOW PRIORITY (include if space allows) ────────────────
@@ -335,14 +435,18 @@ trusted_sources:
     - carnegieendowment.org
     - atlanticcouncil.org
 
-# Researchers to watch (flag articles by these authors)
+# Researchers to watch (flag articles by these authors — PURE GOLD tier marked)
 researchers_to_watch:
+  - name: Sebastian Raschka
+    domain: LLM architecture, training recipes, ML engineering
+    tier: pure_gold
+  - name: Andrej Karpathy
+    domain: LLM training, nanoGPT, AI education
+    tier: pure_gold
   - name: Rhonda Patrick
     domain: APOE4 nutrition, DHA transport
   - name: Sally Frautschy
     domain: Longvida curcumin, neuroinflammation
-  - name: Andrej Karpathy
-    domain: LLM training, nanoGPT
   - name: Kyle Fish
     domain: AI welfare, Anthropic
   - name: Richard Sutton

@@ -113,3 +113,73 @@
 2026-03-30 [Exercise] Combined heat + exercise synergistically upregulates TFAM mitochondrial biogenesis (Frontiers)
 2026-03-30 [Supplement] Rosuvastatin meta-analysis: strongest dementia protection among statins (Westphal Filho 2025)
 2026-03-30 [Markets] Monday bounce (Dow +0.49%); Brent $112-115, 51% monthly gain; Strait of Hormuz crisis deepens
+2026-03-30 [Agents] ETH Zurich AGENTbench: AGENTS.md files may hinder coding agents — LLM-generated reduce success 3%
+2026-03-30 [Agents] ByteDance DeerFlow 2.0: open-source SuperAgent framework, 45K GitHub stars, Docker sandbox
+2026-03-30 [LLM] Recursive Language Models (Prime Intellect): self-managing context via RL + code delegation
+2026-03-30 [Sleep] Vivid immersive dreams make sleep feel deeper and more restorative (PLOS Biology, n=44)
+2026-03-30 [Supplement] CoQ10: Q-SYMBIO trial 50% cardiovascular mortality reduction at 300mg/day; statin myopathy meta-analysis
+
+# ── 2026-03-31 ────────────────────────────────────────────
+2026-03-31 [News] Iran drone strikes fully laden Kuwaiti VLCC Al Salmi in Dubai port — significant escalation beyond Hormuz
+2026-03-31 [News] Trump threatens Iran's Kharg Island, oil wells, and power plants unless deal accepted
+2026-03-31 [AI] Anthropic "Mythos" (Capybara) model leaked via misconfigured CMS — "step change" over Opus 4.6, unprecedented cybersecurity risks
+2026-03-31 [News] SoftBank $40B unsecured bridge loan for OpenAI — 12-month term signals 2026 IPO
+2026-03-31 [News] DeepSeek 7+ hour outage — longest since debut, 355M users affected
+2026-03-31 [News] Artemis II countdown clock started — launch targeted April 1, 6:24 PM EDT, 80% weather go
+2026-03-31 [News] DHS partial shutdown enters 6th week; Congress on Easter recess
+2026-03-31 [News] Innovation Council Action: $100M+ AI deregulation PAC for 2026 midterms (David Sacks)
+2026-03-31 [Markets] S&P -7.8% in March (worst since Sep 2022); Brent +55% (record monthly surge); eurozone inflation 2.5%
+2026-03-31 [Markets] End-of-day relief rally: Dow +1.8%, S&P +2.3%, Nasdaq +3.2% on Iran peace signals; Brent pulled back to $106
+2026-03-31 [Geopolitics] Iran day 31: 230+ Israeli strikes on Tehran in 24h; B-52 deployment; UN emergency session after peacekeeper deaths
+2026-03-31 [Geopolitics] Unconfirmed report Iranian president open to ending war; Trump willing to accept Hormuz closed
+2026-03-31 [News] US gas hits $4/gal average — first since 2022
+2026-03-31 [AI] OpenAI $25B annualized revenue; Anthropic $19B annualized revenue
+
+# ── 2026-04-01 ────────────────────────────────────────────
+2026-04-01 [Geopolitics] IRGC threatens 17 US tech companies (Apple, Google, Microsoft, Nvidia, Tesla, etc.) — attacks from 8 PM Tehran time
+2026-04-01 [Geopolitics] Iran fires 3 cruise missiles at Qatar; 2 intercepted, 1 hits QatarEnergy tanker near Ras Laffan; 17% Qatar LNG capacity knocked out
+2026-04-01 [Geopolitics] IDF strikes Tofiq Daru fentanyl factory in Iran — claims weaponized opioid program for chemical weapons
+2026-04-01 [Geopolitics] Trump says US could end Iran war in 2-3 weeks; Iran FM says no negotiations, prepared for 6 months
+2026-04-01 [Geopolitics] Iran fires 3 waves of missiles at Israel Wednesday morning
+2026-04-01 [News] Trump attends SCOTUS oral arguments on birthright citizenship (Trump v. Barbara) — first sitting president ever
+2026-04-01 [News] Artemis II launch day — 6:24 PM ET, all systems go, 80% weather favorable
+2026-04-01 [Markets] S&P +2.91% Tue (best day since May), futures +0.5% Wed; DAX futures +2%
+2026-04-01 [Nutrition] Rutgers ALA (alpha-linolenic acid) clinical trial for APOE4 carriers with MCI
+2026-04-01 [AI] Claude Code source leak via npm — undercover mode, anti-distillation fake_tools, KAIROS background agent, 44 feature flags
+2026-04-01 [AI] Claude Code quota drain bug — caching read failure + session resume bug + intentional throttling (~7% users)
+2026-04-01 [AI] Codex limits reset March 27 — plugin system launch (Slack, Figma, Notion, Gmail)
+2026-04-01 [AI] Qwen 3.6 Plus Preview — free on OpenRouter, NOT open source, 1M context, always-on CoT
+2026-04-01 [AI] OpenAI closes expanded round at $122B / $852B valuation (Amazon $50B, Nvidia $30B, SoftBank $30B)
+2026-04-01 [News] Google Quantum AI paper: Bitcoin crackable in 9 min with ~1,200 logical qubits, timeline before 2029
+2026-04-01 [Geopolitics] US Treasury delists 3 Russian container ships (Fesco Moneron, Magadan, Sv Nikolay) — first non-oil sanctions easing
+2026-04-01 [News] Peaky Blinders: The Immortal Man — Netflix March 20, 25.3M views in 3 days, most-watched title
+2026-04-01 [AI] Karpathy AutoResearch: 630-line Python script, 100 ML experiments overnight, 11% speedup, Shopify 19% improvement
+2026-04-01 [LLM] Raschka "Dream of Spring": 10 open-weight LLM architectures Jan-Feb 2026, GQA→MLA trend, Qwen3-Coder-Next
+2026-04-01 [AI] Karpathy "never felt this behind as a programmer" — profession being refactored, viral HN thread
+2026-04-01 [AI] FrontierMath: GPT-5.4 Pro first AI to solve a problem; Gemini 3.1 Pro and Opus 4.6 followed
+2026-04-01 [Behavior] Implementation intentions + mental imagery accelerates habit formation (RCT, n=186, BJHP)
+2026-04-01 [Behavior] ACT group intervention for athletes: d=1.13 stress reduction (RCT, n=95 national athletes)
+2026-04-01 [Behavior] Complex habits need active self-regulation even when established (PMC)
+2026-04-01 [Behavior] Habit degradation study: cue discontinuity most effective for breaking bad habits (Tandfonline, 12-week)
+2026-04-01 [News] SpaceX confidential IPO filing — $1.75T target valuation, $75B raise, June listing, first of SpaceX/OpenAI/Anthropic trio
+2026-04-01 [Geopolitics] Trump threatens to leave NATO — "paper tiger" — because allies won't join Iran war; national address tonight
+2026-04-01 [Geopolitics] Iran fires largest missile salvo of the war at Israel (Tel Aviv, multiple waves); Hormuz transits 130/day→6/day (95% decline)
+2026-04-01 [Geopolitics] Polymarket: US ground forces enter Iran by Apr 30 at 72%; ceasefire by Dec 31 at 74%; Hormuz normal by May at 46%
+2026-04-01 [News] SCOTUS skeptical of Trump's birthright citizenship order; Roberts: "It's the same Constitution"; ruling early summer
+2026-04-01 [News] Artemis II: rocket fully fueled, crew at pad, planned hold before 6:24 PM ET launch
+2026-04-01 [Markets] S&P +1.1%, Nasdaq +1.7%, Dow +0.9%; two-day rally; Brent $105, WTI $103
+
+# ── 2026-04-02 ────────────────────────────────────────────
+2026-04-02 [Geopolitics] Trump primetime address: Iran war "nearing completion", 2-3 more weeks, threatens power grid and oil sites
+2026-04-02 [Geopolitics] Iran denies requesting ceasefire; demands guaranteed permanent ceasefire via intermediaries
+2026-04-02 [Geopolitics] IEA warns April oil supply crunch will be 2x March — "the next month will be much worse"
+2026-04-02 [News] Artemis II launched successfully — first crewed lunar mission since Apollo 17, crew en route to Moon
+2026-04-02 [News] Oracle slashes 30,000 jobs via 6am email — redirecting $8-10B to AI data centers
+2026-04-02 [AI] Karpathy demos "Dobby" OpenClaw agent controlling entire home via WhatsApp — no code since December
+2026-04-02 [Agents] Microsoft Agent Lightning: open-source RL framework for any AI agent, zero code modification
+2026-04-02 [AI] Notion engineers switching from Cursor to Claude Code + Codex (The Information)
+2026-04-02 [AI] Cursor existential crisis: $30B valuation but Anthropic undercuts on price — "pays retail for wholesale models"
+2026-04-02 [LLM] NVIDIA Nemotron 3 Super: 120B hybrid Mamba-Transformer MoE, 12B active params, 1M context
+2026-04-02 [Markets] S&P -0.5-1.1% on Apr 2 after Trump address; DAX +2.5% Apr 1; Ibovespa +0.26%; MOEX flat; Brent $105
+2026-04-02 [Geopolitics] Polymarket: Iran ceasefire by Dec 31 at 73%, by Jun 30 at 62%; ceasefire before oil $120 at 46%
+2026-04-02 [Sleep] Nature Reviews Cardiology: comprehensive review of sleep/circadian rhythms in cardiovascular resilience
