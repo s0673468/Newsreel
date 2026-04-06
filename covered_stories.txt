@@ -183,3 +183,29 @@
 2026-04-02 [Markets] S&P -0.5-1.1% on Apr 2 after Trump address; DAX +2.5% Apr 1; Ibovespa +0.26%; MOEX flat; Brent $105
 2026-04-02 [Geopolitics] Polymarket: Iran ceasefire by Dec 31 at 73%, by Jun 30 at 62%; ceasefire before oil $120 at 46%
 2026-04-02 [Sleep] Nature Reviews Cardiology: comprehensive review of sleep/circadian rhythms in cardiovascular resilience
+2026-04-02 [APOE4] Blood immunoassay classifies APOE4 zygosity with 99.6% concordance to PCR, lowering genotyping bottlenecks
+2026-04-02 [AI] Anthropic leak fallout escalates: accidental GitHub takedown of ~8,100 repos plus Gottheimer national-security scrutiny
+2026-04-02 [Agents] AC4A proposes Unix-like least-privilege permissions for LLM agents across APIs and web pages
+2026-04-02 [Markets] Midday tape: SPY/QQQ/DIA down about 0.8-1.1%, EWZ down 0.5%, USO up 10.0% as oil remains the dominant driver
+2026-04-02 [News] U.S. lifts sanctions on Venezuela's acting president Delcy Rodriguez, extending the March oil and minerals opening
+2026-04-02 [Supplement] New telmisartan cohort: marginally lower dementia and stroke risk versus other RAS inhibitors in hypertension
+
+# ── 2026-04-03 ────────────────────────────────────────────
+2026-04-03 [Geopolitics] IEA warns April oil crunch will be 2x March; Hormuz selective transit expands to Philippines
+2026-04-03 [Geopolitics] Trump primetime: 2-3 more weeks, threatens Iran power grid; Iran rejects ceasefire via Oman channel
+2026-04-03 [Geopolitics] WEF maps 9 commodity categories beyond oil affected by Hormuz closure
+2026-04-03 [Geopolitics] Polymarket: ground forces by Apr 30 at 72%, ceasefire by Jun 30 at 56%, regime fall by Jun 30 at 13%
+2026-04-03 [Markets] S&P +0.11%, Nasdaq +0.18% Apr 2 (whipsaw day); DAX -1.39%; Ibovespa +0.26%; MOEX flat near YTD low
+2026-04-03 [Markets] OFAC Russian oil-in-transit waiver expires April 11; first non-oil sanctions easing (Fesco ships) Apr 1
+2026-04-03 [AI] Cursor 3 launches: agent-first interface, parallel agent tabs, proprietary model training (codename Glass)
+2026-04-03 [AI] Claude Code at 54% AI coding market share (Menlo Ventures); Cursor's retail-for-wholesale model economics
+2026-04-03 [APOE4] Meat intake / APOE4 / lower dementia risk story reaches ScienceDaily (4th major outlet)
+2026-04-03 [Supplement] Ezetimibe/rosuvastatin/telmisartan fixed-dose combo continues Phase 3 PK trials (Springer)
+2026-04-03 [Sleep] Circadian rhythm maximally impairs vascular function at 3 AM in sleep apnea patients (OHSU)
+2026-04-03 [Behavior] Daily tracking as habit formation mechanism, not just measurement (Fiorella 2026, Sage Journals)
+2026-04-03 [Behavior] Self-reported habit degradation strategies: cue discontinuity most effective (Tandfonline 2026)
+2026-04-03 [News] Q1 2026 startup funding $297B — highest quarterly total ever, driven by AI mega-rounds
+2026-04-03 [News] Cisco Zero Trust architecture for autonomous AI agents (RSA Conference 2026)
+2026-04-03 [News] Netflix April: Beef S2 (Apr 16), Stranger Things animated prequel (Apr 23), Apex (Apr 24)
+2026-04-03 [Quant] Explainable multimodal Bitcoin forecasting: multi-head CNN with 3 timeframe heads (ACM 2026)
+2026-04-03 [Quant] ADDM autoregressive drift detection for trading regime shifts (QuantInsti)

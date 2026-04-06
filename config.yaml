@@ -377,6 +377,31 @@ topics:
       - site:reddit.com
     priority: always
 
+  - name: Brazil & Florianópolis
+    description: >
+      Local content for German's home base. Two layers:
+      1. BRAZIL NATIONAL — Major political developments, economic policy (Selic, fiscal),
+         Ibovespa-moving events, BRL/USD drivers, infrastructure, protests, elections.
+         Not routine politics — only things that matter or are interesting.
+      2. FOOTBALL — Brazil national team (Seleção) matches, qualifiers, friendlies, coach news.
+         Figueirense FC (Florianópolis) — Série C/B standings, match results, transfers, local drama.
+         Not full match reports — just scores, upcoming fixtures, and anything notable.
+      3. FLORIANÓPOLIS — Regional stories if genuinely interesting: weather events, surf conditions,
+         infrastructure changes, local tech scene, cultural events.
+      Keep it light — 2-3 items max. This is the "local color" section.
+    queries:
+      - "seleção brasileira futebol próximo jogo 2026"
+      - "Figueirense FC resultado jogo 2026"
+      - "Brazil national team match schedule 2026"
+      - "Brazil news major developments today"
+      - "Florianópolis news today"
+    site_searches:
+      - site:ge.globo.com
+      - site:uol.com.br
+      - site:reuters.com
+      - site:g1.globo.com
+    priority: low
+
   # ── LOW PRIORITY (include if space allows) ────────────────
 
   - name: X/Twitter Growth & Content Strategy
