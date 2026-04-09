@@ -87,6 +87,11 @@ topics:
       DeepSeek, Mistral, Alibaba/Qwen, xAI/Grok, Cohere, etc. Track model releases from
       non-Western labs (Qwen, DeepSeek, Yi) — licensing changes and benchmark claims matter.
       Include AI funding rounds, valuations, and IPO signals.
+      LOCAL/EDGE MODELS — Track open-weight models that run on consumer GPUs (RTX 5090, M-series Macs).
+      Quantization breakthroughs (GGUF, GPTQ, AWQ), Ollama/llama.cpp developments, and the
+      cost-parity frontier (when does local match API quality for specific tasks?). German is
+      actively experimenting with local models + OpenClaw for self-hosted agent workflows.
+      Flag models that fit on a single 5090 (16-24GB VRAM) with good quality.
     queries:
       - "transformer architecture new design 2026"
       - "LLM training dynamics grokking scaling laws"
@@ -97,6 +102,9 @@ topics:
       - "speculative decoding KV cache compression research"
       - "Qwen DeepSeek new model release 2026"
       - "OpenAI Anthropic funding round valuation 2026"
+      - "local LLM consumer GPU RTX 5090 Ollama quantization 2026"
+      - "open weight model fits single GPU VRAM 2026"
+      - "Gemma Llama Qwen local inference benchmark 2026"
     site_searches:
       - site:arxiv.org
       - site:substack.com

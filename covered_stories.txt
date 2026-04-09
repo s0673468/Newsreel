@@ -209,3 +209,91 @@
 2026-04-03 [News] Netflix April: Beef S2 (Apr 16), Stranger Things animated prequel (Apr 23), Apex (Apr 24)
 2026-04-03 [Quant] Explainable multimodal Bitcoin forecasting: multi-head CNN with 3 timeframe heads (ACM 2026)
 2026-04-03 [Quant] ADDM autoregressive drift detection for trading regime shifts (QuantInsti)
+2026-04-03 [Geopolitics] Two US aircraft shot down over Iran; one crew member missing, one rescued; second plane near Hormuz
+2026-04-03 [Geopolitics] Trump posts Iranian bridge collapse video; threatens power grid, desalination, more bridges by next week
+2026-04-03 [Geopolitics] Iran drones hit Kuwait's Mina Al-Ahmadi refinery (largest); UAE Habshan gas facility damaged by debris
+2026-04-03 [Markets] Brent spikes to $109 — largest daily move of the crisis (+8-11%); Polymarket ceasefire-before-$120 drops to 14%
+2026-04-03 [AI] Karpathy LLM Knowledge Bases / LLM Wiki: 3-stage compile loop replacing RAG, 100 articles 400K words, GitHub gist
+2026-04-03 [AI] Microsoft Copilot Cowork: Critique (GPT drafts + Claude reviews) and Council (parallel + judge model), +13.8% DRACO
+2026-04-03 [AI] OpenAI acquires TBPN tech talk show ($30M revenue trajectory) — buying media to own AI narrative
+2026-04-03 [News] California Newsom orders AI contract standards for CSAM, civil rights, surveillance
+2026-04-03 [News] Microsoft $10B Japan AI investment 2026-2029, framed as national security infrastructure
+2026-04-03 [Geopolitics] 40-country UK-convened virtual summit on Hormuz — US and Israel absent
+2026-04-03 [Geopolitics] Both downed US crew members rescued; Kuwait refinery still burning; Brent closes ~$112
+2026-04-03 [AI] Google Gemma 4: four open-weight models under Apache 2.0, 31B ranks #3 Arena AI, 140+ languages
+2026-04-03 [AI] Anthropic Conway leaked: always-on agent with extensions (.cnw.zip), webhooks, Chrome, sidebar daemon
+2026-04-03 [AI] OpenAI fully retires GPT-4o from ChatGPT (Enterprise/Business last day Apr 3); API access remains
+2026-04-03 [AI] Karpathy LLM Wiki hits 11M views on X; community calls it RAG replacement; follow-up gist with full architecture
+2026-04-03 [AI] Salesforce stuffs 30 AI skills into Slackbot — powered by Claude; desktop activity monitoring, proactive tasks
+2026-04-03 [AI] Claude now powers both Microsoft Copilot (Critique/Council) and Salesforce Slackbot — enterprise middleware layer
+2026-04-03 [News] Apple WWDC 2026 lottery invitations going out
+2026-04-03 [News] Hims & Hers data breach — third-party support platform, customer PII exposed
+2026-04-03 [News] $285M Drift (Solana DEX) hack by North Korean state-sponsored group
+2026-04-03 [News] Utah first state to allow AI-powered drug prescription renewals
+
+# ── 2026-04-07 (morning digest, covering Apr 4-7 weekend) ──
+2026-04-07 [Geopolitics] Trump Hormuz deadline 8 PM ET Tuesday — "final"; threatens bridges, power plants, desalination
+2026-04-07 [Geopolitics] 45-day ceasefire proposal (Pakistani-mediated): Trump says "not good enough"; Iran rejects, counter-proposes 10-point plan
+2026-04-07 [Geopolitics] Israel strikes South Pars petrochemical complex — Jam/Damavand (85% of Iran petrochemical exports) inoperative
+2026-04-07 [Geopolitics] US highest strike volume of war (Monday); 25+ killed in Tehran residential areas including 6 children; 2 IRGC commanders killed
+2026-04-07 [Geopolitics] F-15E rescue: Delta Force + SEAL Team Six, 2 days behind enemy lines, colonel evaded 24+ hours
+2026-04-07 [Markets] S&P futures -0.39%, Nasdaq -0.50% pre-market on deadline anxiety; Brent ~$111-112
+2026-04-07 [Markets] Ibovespa 188,354 near ATH; Selic 14.75% after March cut, easing cycle begun
+2026-04-07 [Markets] OFAC Russian oil-in-transit waiver expires April 11 — 4 days, no renewal signal
+2026-04-07 [APOE4] Nell2 pathway: APOE4 → Nell2 → neuron shrinkage → hyperexcitability — reversible in adult mice (Nature Aging, Gladstone)
+2026-04-07 [AI] DeepSeek V4: 1T params, ~37B active, $5.2M training, Huawei Ascend 950PR chips, Apache 2.0, expected April release
+2026-04-07 [AI] Karpathy "idea file" follow-up: concept > code as shareable unit; community building Claude Code skills
+2026-04-07 [Supplement] NAC + CoQ10 synergistic protection against statin-induced myopathy (ScienceDirect)
+2026-04-07 [Supplement] CoQ10 + creatine additive neuroprotection in Parkinson's/Huntington's transgenic mice (PMC)
+2026-04-07 [Behavior] Complex habits need permanent self-regulation even when established; simple habits automate fully (Kaushal et al., PMC 2024)
+2026-04-07 [Sleep] IU: distinct sleep states in flies reopen genetic sleep research; microglia promote sleep via P2Y12-GPCR signaling
+2026-04-07 [News] Netflix Playground kids gaming app launches — Peppa Pig, Sesame Street, offline play
+2026-04-07 [Brazil] Figueirense vs Ypiranga FC (Série C, Apr 6); Figueirense 11th in table
+
+# ── 2026-04-08 (morning digest) ──────────────────────────
+2026-04-08 [Geopolitics] TWO-WEEK CEASEFIRE: Trump suspends strikes 88 min before deadline; Iran accepts via SNSC; Pakistan-mediated
+2026-04-08 [Geopolitics] Iran to reopen Hormuz under "coordinated passage" (ships coordinate with IRGC) — not unconditional
+2026-04-08 [Geopolitics] Pakistan hosts Islamabad negotiations Friday April 10; US 15-point plan vs Iran 10-point counter
+2026-04-08 [Geopolitics] Iran's 10-point demands: US base withdrawal, all sanctions lifted, frozen assets + war damages, controlled Hormuz passage
+2026-04-08 [Geopolitics] April 7 pre-ceasefire: highest US strike volume of war; 15 US service members injured in Kuwait drone attack
+2026-04-08 [Geopolitics] Israel struck South Pars (Jam+Damavand, 85% petrochemical exports); 25+ killed Tehran residential areas incl 6 children
+2026-04-08 [Geopolitics] Lebanon: 1.1M displaced; ceasefire with Iran doesn't extend to Lebanon front
+2026-04-08 [Geopolitics] Polymarket: military action ends by Apr 9 at 51%; ceasefire by Dec 31 at 76%; ceasefire-before-$120 swung from 14% to likely much higher
+2026-04-08 [Markets] S&P 6,617 (+0.08%), Nasdaq 22,018 (+0.10%), Dow 46,584 (-0.18%) — ceasefire broke after close; gap-up expected
+2026-04-08 [Markets] IMF Georgieva: "all roads lead to higher prices and slower growth" — worst-ever disruption in global energy supplies
+2026-04-08 [Markets] OFAC Russian oil waiver expires April 11 — 3 days; ceasefire changes renewal calculus
+2026-04-08 [AI] Anthropic Mythos preview via Project Glasswing: 40 orgs, cybersecurity-only, found thousands of zero-day vulns (1-2 decades old)
+2026-04-08 [AI] Glasswing partners: Amazon, Apple, Broadcom, Cisco, CrowdStrike, Linux Foundation, Microsoft, Palo Alto Networks + 28 more
+2026-04-08 [AI] Anthropic $30B annualized revenue (up from $9B end-2025); 1,000+ customers at $1M+/year
+2026-04-08 [AI] Anthropic signs Google/Broadcom deal for 3.5 GW next-gen TPU capacity (2027) — on top of 1 GW deploying 2026
+2026-04-08 [AI] DeepSeek V4-Lite live on API nodes: 30% faster inference, 94% recall at 128K tokens; full V4 expected late April
+2026-04-08 [AI] OpenAI Safety Fellowship announced — external researchers Sep 2026 - Feb 2027
+2026-04-08 [Sleep] Deep sleep activates GH feedback loop: GHRH/somatostatin in hypothalamus; GH regulates subsequent wakefulness quality
+2026-04-08 [Exercise] Post-exercise heat systematic review (Sports Med Open): plasma volume, thermoregulation, modest hypertrophy gains, HSP70 at 80-100°C 30min
+2026-04-08 [Behavior] Kaushal et al. habit complexity gradient: supplements auto-tier, meals semi-auto, training always deliberate — build tiered system
+2026-04-08 [News] Vietnam: Le Minh Hung elected new PM
+
+# ── 2026-04-10 (catch-up digest) ──────────────────────────
+2026-04-10 [Geopolitics] Islamabad talks begin today; VP Vance leading US team with Witkoff and Kushner
+2026-04-10 [Geopolitics] Operation Eternal Darkness (Apr 8): 50 IDF jets, 160 munitions, 254+ killed in Lebanon; central Beirut struck without warning
+2026-04-10 [Geopolitics] Netanyahu declares Lebanon excluded from ceasefire despite Pakistan mediator saying it's included
+2026-04-10 [Geopolitics] Hezbollah resumed attacks Apr 9 — missile at northern Israel, 2 strikes on IDF in southern Lebanon
+2026-04-10 [Geopolitics] Iran closing Hormuz again as leverage over Lebanon; Iran parliament: 3 of 10 clauses violated before talks
+2026-04-10 [Geopolitics] White House: Iran enrichment is "red line the President is not backing away from"
+2026-04-10 [Markets] Apr 8 relief rally: S&P +2.51% to 6,782, Nasdaq +2.80% to 22,635, Dow +2.85% (+1,325 pts) to 47,910
+2026-04-10 [Markets] Oil crash Apr 8: WTI -15.2% (-$17.16), Brent -12 to -13% — biggest one-day drop since April 2020
+2026-04-10 [Markets] OFAC Russian oil waiver expires tomorrow (April 11) — oil crash removes political pressure to extend
+2026-04-10 [AI] Claude Mythos full specs: 93.9% SWE-bench Verified, 97.6% USAMO 2026, autonomous zero-day chain discovery
+2026-04-10 [AI] Mythos system card: "large increase in capabilities has led us to decide not to make it generally available" — unprecedented
+2026-04-10 [AI] Project Glasswing expanded to 50+ orgs; $100M usage credits + $4M open-source donations
+2026-04-10 [AI] DeepSeek launches tiered pricing Apr 8 (Fast Mode/Expert Mode) — first time abandoning fully-free access; V4 still delayed
+2026-04-10 [AI] Meta Muse Spark (Apr 8) — order of magnitude less compute than Llama 4, debuts in FB/IG/WA/Messenger/Ray-Ban glasses
+2026-04-10 [AI] Google Gemini 3.1 Ultra: 94.3% GPQA Diamond, native multimodal real-time
+2026-04-10 [AI] Q1 2026 VC funding $267.2B record; SpaceX acquired xAI (Musk AI consolidation under SpaceX IPO)
+2026-04-10 [Local] NVIDIA official OpenClaw-on-RTX guide published — blessing of self-hosted agent stack
+2026-04-10 [Local] Gemma 4 31B dense runs Q8 with full long context on RTX 5090 32GB; 2.7x M3 Ultra; 75-90 tok/s
+2026-04-10 [Local] Gemma 4 26B MoE: 3.8B active params, near-30B quality on RTX 5060 Ti — most hardware-efficient 2026
+2026-04-10 [Local] Qwen3-coder-30B Q4 = community top pick for local coding on 5090
+2026-04-10 [Local] Vitalik Buterin published self-sovereign local LLM setup guide (Apr 2) — privacy threat model reasoning
+2026-04-10 [Local] MarkTechPost: "Defeating the Token Tax" — local Gemma 4 + OpenClaw break-even ~3-4 months vs API
+2026-04-10 [APOE4] Nell2 paper expanding coverage (Inside Precision Medicine, EurekAlert) — dose-dependent neuronal hyperactivity → memory problems
