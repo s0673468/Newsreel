@@ -297,3 +297,21 @@
 2026-04-10 [Local] Vitalik Buterin published self-sovereign local LLM setup guide (Apr 2) — privacy threat model reasoning
 2026-04-10 [Local] MarkTechPost: "Defeating the Token Tax" — local Gemma 4 + OpenClaw break-even ~3-4 months vs API
 2026-04-10 [APOE4] Nell2 paper expanding coverage (Inside Precision Medicine, EurekAlert) — dose-dependent neuronal hyperactivity → memory problems
+2026-04-10 [Supplement] Nature paper: endogenous lithium depletion ~50% drives amyloid/tau via GSK3β; lithium orotate rescues in mice (carbonate trial separately missed endpoints)
+2026-04-10 [Supplement] Magtein Frontiers in Nutrition RCT (6wk): NIH cognition composite gains, 7.5yr brain-age reduction, HRV improvement, subjective-only sleep gains
+2026-04-10 [APOE4] SNAC-K Swedish cohort: higher meat intake associated with reduced cognitive decline specifically in ε3/ε4 and ε4/ε4, not ε3/ε3 (15yr follow-up)
+2026-04-10 [AI] Karpathy LLM Wiki GitHub gist (Apr 3) — ingest-time LLM-built interlinked wiki replacing query-time RAG for personal corpora; ~100 articles/400k words on one topic
+2026-04-10 [AI] Sebastian Raschka Apr 4 "Ahead of AI" — how coding agents use tools, memory, repo context; PyCon DE keynote Apr 14-16 Darmstadt
+2026-04-10 [AI] Claude Code leak v2.1.88 — KAIROS unreleased autonomous agent mode + ANTI_DISTILLATION_CC fake_tools flag injecting decoy tools into system prompts
+2026-04-10 [AI] npm typosquat campaign exploiting Claude Code leak for dependency-confusion attacks on hobbyists compiling leaked source
+2026-04-10 [Behavior] Habit formation meta-analysis: automaticity peaks ~12 weeks then declines before stabilizing; d=0.67 overall, implementation intentions d=0.781
+2026-04-10 [Markets] Apr 9 close: S&P 500 +0.62% 6,824.66; Nasdaq +0.83% 22,822.42; Dow +0.58% 48,185.80
+2026-04-10 [Markets] Ibovespa +2.09% all-time closing high 192,201.16 (beat Feb record); banks led (Bradesco +5%, BB +4.48%); Petrobras -4% on Brent weakness
+2026-04-10 [Markets] Brent ~$100.99 Apr 9; WTI pushed back toward $98 (+3% intraday) on renewed Lebanon strikes
+2026-04-10 [Markets] March CPI print Apr 10 8:30am ET — rally pricing benign number; services inflation upside = retrace risk
+2026-04-10 [Geopolitics] Polymarket US-Iran ceasefire extension by Apr 21: 33% Yes / 67% No; leading end-date Apr 21 (34%), Apr 18 (20%); Vance in-person talks Islamabad Fri
+2026-04-10 [News] Docker Engine CVE-2026-34040 CVSS 8.8 — auth-plugin bypass, incomplete prior fix
+2026-04-10 [News] DPRK supply-chain campaign: ~1,700 malicious packages across npm+PyPI+Go+Rust impersonating developer tooling
+2026-04-10 [News] MATCH Act proposed — further US restrictions on semi equipment to China; ASML shares fell, low-teens % of 2026 sales at risk
+2026-04-10 [News] TikTok €1B second Finland data center — European data-sovereignty push under regulatory pressure
+2026-04-10 [Brazil] Figueirense FC 11th in Série C 2026 after opening rounds; Apr 14 vs Maringá, Apr 19 vs Botafogo-PB; relegated from Catarinense to Série B after 4-2 loss to Carlos Renaux
