@@ -271,3 +271,20 @@
 2026-04-10 [News] MATCH Act proposed — further US restrictions on semi equipment to China; ASML shares fell, low-teens % of 2026 sales at risk
 2026-04-10 [News] TikTok €1B second Finland data center — European data-sovereignty push under regulatory pressure
 2026-04-10 [Brazil] Figueirense FC relegated from Catarinense to Série B after 4-2 loss to Carlos Renaux; upcoming Apr 14 vs Maringá, Apr 19 vs Botafogo-PB
+
+# ── 2026-04-11 ──────────────────────────────────────────
+2026-04-11 [Geopolitics] Islamabad US-Iran talks start Apr 11; Iran delegation 71-person led by Ghalibaf+Araghchi; new pre-conditions (Lebanon ceasefire, frozen assets release); Hormuz throughput still ~10%
+2026-04-11 [Geopolitics] Polymarket Iran ceasefire insider-trading scandal — ~50 new accounts bet large in minutes before Apr 8 announcement; Congress asks CFTC/DOJ to investigate
+2026-04-11 [Markets] Apr 10 close: S&P 6816.89 (-0.11%), Nasdaq 22902.89 (+0.35%), Dow 47916.57 (-0.56%); weekly S&P +3.6%/Nasdaq +4.7%/Dow +3.0% — best week since November
+2026-04-11 [Markets] March CPI: headline 3.8% YoY (energy surge), core 2.8% YoY — both exactly in line with consensus, June-cut path intact
+2026-04-11 [Markets] OFAC Russia pre-loaded crude waiver expires 12:01 AM ET Apr 11 — binary event for IMOEX2
+2026-04-11 [APOE4] Nature Aging: APOE4 upregulates Nell2 in hippocampal neurons → dendritic shrinkage + hyperexcitability years before amyloid/tau; Nell2 knockdown rescues morphology and firing (Gladstone)
+2026-04-11 [APOE4] npj Dementia PAF analysis: ~70% of Alzheimer cases attributable to APOE3/APOE4 genetics combined
+2026-04-11 [LLM] arXiv 2603.23198 Sparser/Faster/Lighter Transformers: L1 regularization achieves >99% FFN sparsity on Transformer++ with 20.5% forward / 21.9% training speedup, negligible quality loss
+2026-04-11 [AI] Sebastian Raschka PyCon DE keynote Apr 14 Darmstadt "LLMs in 2026: From Architecture to Production"
+2026-04-11 [AI] Anthropic Claude Mythos Fortune follow-up — "first model too dangerous to release" framed as IPO differentiator; Project Glasswing gated to ~40 orgs (AWS, Apple, Cisco)
+2026-04-11 [AI] OpenAI launches $100/mo Pro subscription tier matching Claude pricing; $200 Max remains top
+2026-04-11 [AI] Claude Code release — Bedrock setup wizard, policy controls, MCP _meta maxResultSizeChars up to 500K, apply-seccomp restored on Linux sandbox, 60% faster Write tool diff on files with tabs/&/$
+2026-04-11 [News] NASA Artemis II splashdown — Wiseman/Glover/Koch/Hansen complete 10-day lunar flyby; first crewed since Apollo 17; recovery by USS John P. Murtha
+2026-04-11 [News] Hyperscaler nuclear push — Microsoft/Google/Amazon/Meta taking equity stakes in SMR/fusion startups to power AI data centers
+2026-04-11 [Brazil] Figueirense Série C 2026 — national Série C starts Apr 4, Apr 13 home vs Maringá (revenge match); Série C runs to Oct 25; three SC clubs in division (Barra, Brusque, Figueirense)
